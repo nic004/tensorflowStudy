@@ -1,1 +1,7 @@
 settings.json
+bin
+lib
+include
+pip-selfcheck.json
+*.local
+.Python

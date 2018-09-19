@@ -5,3 +5,4 @@ include
 pip-selfcheck.json
 *.local
 .Python
+mnist
